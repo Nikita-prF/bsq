@@ -5,7 +5,7 @@ This was the final group project of the School21's qualifying stage. Our program
 
 
 ## <b>Subject</b>
----
+
 ### <b>The biggest square</b> :<br>
 
 * The aim of this project is to find the biggest square on a map, avoiding obsta-cles.
@@ -80,7 +80,7 @@ o.o..o..o.
 
 
 ## <b>Make and Run</b>
----
+
 To compile and run program you should clone repository and and run <b>it</b> in project deirectory:
 
 ```
@@ -98,18 +98,18 @@ This program may run only in Unix environment (Linux, Mac OS). Sorry.
 ```
 
 ## <b>Built with</b>
----
+
 
 * [unistd.h](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/unistd.h.html) - standard symbolic constants and types.
 * [fcntl.h](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/fcntl.h.html) - file control options.
 * [stdlib.h](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/stdlib.h.html) - standard library definitions
 
 ## <b>Authors</b>
----
+
 [Nikita-prF](https://github.com/Nikita-prF)
 
 ## Additional info
----
+
 The school21 has dictated some rules and restrictions for us to write code, so that some structures, functions and expressions may not be present in our code.
 To get more information about all the rules of code writing, read about [Norminette](https://cdn.intra.42.fr/pdf/pdf/960/norme.en.pdf)
 
